@@ -1,6 +1,6 @@
 # Internshala_MachineLearning_FinalProject
 
-# This project is a part of Machine Learning Training on Internshala
+This project is a part of Machine Learning Training on Internshala
 
 Customer Churn Prediction:
 
